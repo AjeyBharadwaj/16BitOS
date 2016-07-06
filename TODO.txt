@@ -1,0 +1,4 @@
+1. 16 BIT OS.
+2. Implementing Kernel Functions.
+3. Writing app that uses the Kernel Functions.
+4. Writing small compiler that converts .c to .bin
